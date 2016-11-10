@@ -8,7 +8,7 @@ Estructura de Computadores (EC)
 - [Suma con Signo][cs]
 - [Media][media]
 
-[Datos recogido:][datos]
+[Datos recogidos:][datos]
 
 [media]:https://github.com/marlenelis/EC/blob/master/Practica_1/media.s
 [s]:https://github.com/marlenelis/EC/blob/master/Practica_1/suma64uns.s
