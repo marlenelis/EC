@@ -9,5 +9,5 @@ Estructura de Computadores (EC)
 - [Meedia][media]
 
 [media]:https://github.com/marlenelis/EC/blob/master/Practica_1/media.s
-[s]:https://github.com/marlenelis/EC/blob/master/Practica_1/suma_unsigned.s
-[cs]:https://github.com/marlenelis/EC/blob/master/Practica_1/suma_signed.s
+[s]:https://github.com/marlenelis/EC/blob/master/Practica_1/suma64uns.s
+[cs]:https://github.com/marlenelis/EC/blob/master/Practica_1/suma64sgn.s
