@@ -6,8 +6,8 @@ Estructura de Computadores (EC)
 **Práctica 2**
 - [Suma sin signo][s]
 - [Suma con Signo][cs]
-- [media][media]
+- [Meedia][media]
 
-[media]:https://github.com/marlenelis/EC/blob/master/practica_1/media.s
-[s]:https://github.com/marlenelis/EC/blob/master/practica_1/suma_unsigned.s
-[cs]:https://github.com/marlenelis/EC/blob/master/practica_1/suma_signed.s
+[media]:https://github.com/marlenelis/EC/blob/master/Practica_1/media.s
+[s]:https://github.com/marlenelis/EC/blob/master/Practica_1/suma_unsigned.s
+[cs]:https://github.com/marlenelis/EC/blob/master/Practica_1/suma_signed.s
