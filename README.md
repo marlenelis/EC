@@ -23,4 +23,4 @@
 
 [pop]:https://github.com/marlenelis/EC/blob/master/practica_3/popcount.c
 [par]:https://github.com/marlenelis/EC/blob/master/practica_3/
-[dato3]:https://docs.google.com/spreadsheets/d/1MBLHa3OwluqUG1lIdyiG6rMrI-51Ocm2QRK9WtZAAYQ/edit?usp=sharing
+[datos3]:https://docs.google.com/spreadsheets/d/1MBLHa3OwluqUG1lIdyiG6rMrI-51Ocm2QRK9WtZAAYQ/edit?usp=sharing
