@@ -10,7 +10,7 @@ Estructura de Computadores (EC)
 
 [Datos recogidos:][datos]
 
-[media]:https://github.com/marlenelis/EC/blob/master/Practica_1/media.s
+[media]:https://github.com/marlenelis/EC/blob/master/Practica_2/media.s
 [s]:https://github.com/marlenelis/EC/blob/master/Practica_1/suma64uns.s
 [cs]:https://github.com/marlenelis/EC/blob/master/Practica_1/suma64sgn.s
 [datos]:https://docs.google.com/spreadsheets/d/1EII5New4KqikXlATkanxjVN2NTnsPz-oNTu3fpVnQgY/edit?usp=sharing
