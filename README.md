@@ -15,6 +15,10 @@
 
 [Datos recogidos][datos3]
 
+**Práctica 4**
+- [bomba.c][bomba] - [pdf][manual]
+
+
 
 ------
 
@@ -30,3 +34,8 @@
 [datospar]:https://github.com/marlenelis/EC/blob/master/practica_3/entrega/parity.pdf
 
 [datos3]:https://github.com/marlenelis/EC/blob/master/practica_3/entrega/tiempos.ods
+
+[bomba]:https://github.com/marlenelis/EC/blob/master/practica_4/entrega/bomba.c
+
+[manual]:https://github.com/marlenelis/EC/blob/master/practica_4/entrega/manual.pdf
+
