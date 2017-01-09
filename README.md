@@ -7,13 +7,15 @@
 - [Suma con Signo][cs]
 - [Media][media]
 
-[Datos recogidos:][datos]
+[Datos recogidos][datos]
 
 **Práctica 3**
 - [popcount][pop] - [pdf][datospop]
 - [parity][par]  - [pdf][datospar]
 
-[Datos recogidos:][datos3]
+[Datos recogidos][datos3]
+
+
 ------
 
 [media]:https://github.com/marlenelis/EC/blob/master/Practica_2/media.s
