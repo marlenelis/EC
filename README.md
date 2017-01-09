@@ -10,8 +10,8 @@
 [Datos recogidos:][datos]
 
 **Práctica 3**
-- [popcount][pop]
-- [parity][par]
+- [popcount][pop] [pdf][datospop]
+- [parity][par]   [pdf][datospar]
 
 [Datos recogidos:][datos3]
 ------
@@ -21,6 +21,10 @@
 [cs]:https://github.com/marlenelis/EC/blob/master/Practica_2/suma64sgn.s
 [datos]:https://docs.google.com/spreadsheets/d/1EII5New4KqikXlATkanxjVN2NTnsPz-oNTu3fpVnQgY/edit?usp=sharing
 
-[pop]:https://github.com/marlenelis/EC/blob/master/practica_3/popcount.c
-[par]:https://github.com/marlenelis/EC/blob/master/practica_3/
-[datos3]:https://docs.google.com/spreadsheets/d/1MBLHa3OwluqUG1lIdyiG6rMrI-51Ocm2QRK9WtZAAYQ/edit?usp=sharing
+[pop]:https://github.com/marlenelis/EC/blob/master/practica_3/entrega/popcount.c
+[datospop]:https://github.com/marlenelis/EC/blob/master/practica_3/entrega/popcount.pdf
+
+[par]:https://github.com/marlenelis/EC/blob/master/practica_3/entrega/parity.c
+[datospar]:https://github.com/marlenelis/EC/blob/master/practica_3/entrega/parity.pdf
+
+[datos3]:https://github.com/marlenelis/EC/blob/master/practica_3/entrega/tiempos.ods
