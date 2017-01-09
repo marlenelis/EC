@@ -10,8 +10,8 @@
 [Datos recogidos:][datos]
 
 **Práctica 3**
-- [popcount][pop] [pdf][datospop]
-- [parity][par]   [pdf][datospar]
+- [popcount][pop] - [pdf][datospop]
+- [parity][par]  - [pdf][datospar]
 
 [Datos recogidos:][datos3]
 ------
