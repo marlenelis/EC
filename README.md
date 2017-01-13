@@ -41,6 +41,5 @@
 [manual]:https://github.com/marlenelis/EC/blob/master/practica_4/entrega/manual.pdf
 
 
-[line]:https://github.com/marlenelis/EC/blob/master/practica_5/line.c 
-
-[memoria]:https://github.com/marlenelis/EC/blob/master/practicapractica_5/
+[line]:https://github.com/marlenelis/EC/blob/master/practica_5/line.cc
+[memoria]:https://github.com/marlenelis/EC/blob/master/practicapractica_5/practica_5.pdf
