@@ -42,4 +42,4 @@
 
 
 [line]:https://github.com/marlenelis/EC/blob/master/practica_5/line.cc
-[memoria]:https://github.com/marlenelis/EC/blob/master/practicapractica_5/practica_5.pdf
+[memoria]:https://github.com/marlenelis/EC/blob/master/practicapractica_5/practica-05.pdf
