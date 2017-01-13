@@ -18,7 +18,8 @@
 **Práctica 4**
 - [bomba.c][bomba] - [pdf][manual]
 
-
+**Práctica 5**
+- [líne.c][line] - [memoria][memoria]
 
 ------
 
@@ -39,3 +40,7 @@
 
 [manual]:https://github.com/marlenelis/EC/blob/master/practica_4/entrega/manual.pdf
 
+
+[line]:https://github.com/marlenelis/EC/blob/master/practica_5/line.c 
+
+[memoria]:https://github.com/marlenelis/EC/blob/master/practicapractica_5/
