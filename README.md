@@ -1,6 +1,6 @@
-##Estructura de Computadores (EC)
+## Estructura de Computadores (EC)
 ----
-###Prácticas
+### Prácticas
 
 **Práctica 2**
 - [Suma sin signo][s]
